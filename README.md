@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedroPinkovay)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pedropinkovay)
 
-![Pinkovay GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkovay&show_icons=true&theme=tokyonight)
+![Pinkovay GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkovay&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia
 
