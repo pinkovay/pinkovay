@@ -1,11 +1,11 @@
 
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&weight=800&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Pinkovay;Tenho+18+anos;Sou+do+Brasil;E+estudo+programação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&weight=800&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Pinkovay;Tenho+18+anos;Sou+do+Brasil;E+estudo+programação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pinkovay&bg_color=000000&color=4981b6&line=000000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pinkovay&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> -->
 
