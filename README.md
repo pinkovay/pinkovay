@@ -1,4 +1,11 @@
-
+<div>
+  
+  <h1 align="center">
+    Olá! Eu sou o 
+    <a href="https://www.linkedin.com/in/pedro-pinkovay-5b1b80233/"> Pedro Pinkovay </a>
+  </h1>
+  
+</div>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&weight=800&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Pinkovay;Tenho+18+anos;Sou+do+Brasil;E+estudo+programação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) -->
 
